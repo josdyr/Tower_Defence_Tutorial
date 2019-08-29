@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tower_Defence_Tutorial",
+"productVersion": "0.1",
+"dataUrl": "Tower_Defence_Tutorial.data.unityweb",
+"wasmCodeUrl": "Tower_Defence_Tutorial.wasm.code.unityweb",
+"wasmFrameworkUrl": "Tower_Defence_Tutorial.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a7"
+}
